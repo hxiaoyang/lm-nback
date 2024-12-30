@@ -41,8 +41,8 @@ class PromptComposer:
 
         Args:
             role: If `system`, compose task instruction given `version`, `n` and
-                `mode`. `cache` is irelevant. If `assistant`, compose correct
-                response given `version`, `n` and `cache`. `mode` is irelevant.
+                `mode`. `cache` is irrelevant. If `assistant`, compose correct
+                response given `version`, `n` and `cache`. `mode` is irrelevant.
             n: n-back task.
             mode: Either `demo` or `test`.
             cache: List containing current letter and previous n letters.
