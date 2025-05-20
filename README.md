@@ -1,5 +1,5 @@
 # Do Language Models Understand the Cognitive Tasks Given to Them? Investigations with the *N*-Back Paradigm
-Code for [this](https://arxiv.org/abs/2412.18120) ACL Findings 2025 paper.
+Code for ACL Findings 2025 paper [Do Language Models Understand the Cognitive Tasks Given to Them? Investigations with the *N*-Back Paradigm](https://arxiv.org/abs/2412.18120).
 
 ## Usage
 Depending on the experiment, you will need
